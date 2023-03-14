@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/trapped.egg-info/PKG-INFO
+src/trapped.egg-info/SOURCES.txt
+src/trapped.egg-info/dependency_links.txt
+src/trapped.egg-info/top_level.txt
